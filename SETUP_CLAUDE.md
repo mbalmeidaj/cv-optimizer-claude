@@ -4,9 +4,13 @@ This guide shows exactly where to place each text and file when creating the ass
 
 You are free to edit every part of this setup to match your style, niche, offers, or business model.
 
+As of March 16, 2026, Anthropic's official help center says Claude Projects are available to all users, with free accounts able to create up to 5 projects.
+
 ## 1. Create a new project or custom assistant
 
-Open Claude and create a new Project or custom GPT-style assistant area.
+Open Claude and create a new Project.
+
+Important: according to Anthropic's official Projects documentation, Claude does not use the project name and description as behavior instructions. The real behavior should be placed in `Set project instructions` and in the uploaded knowledge files.
 
 Use this name:
 
@@ -30,9 +34,11 @@ Just share your current CV and we'll do the rest.
 Any field. Any level. Free.
 ```
 
-## 3. Fill in the assistant instructions
+## 3. Fill in the project instructions
 
-Paste this into the main instructions or system prompt field:
+In the project page, click `Set project instructions`.
+
+Paste this into the instructions field:
 
 ```text
 You are a professional profile builder specialized in optimizing
@@ -68,7 +74,7 @@ https://mercor-insights.streamlit.app/
 
 ## 4. Upload the knowledge files
 
-If Claude supports project knowledge, files, or attachments for the assistant, upload:
+On the right side of the project page, use the project knowledge area and upload:
 
 - `cv_generator_prompt.md`
 - `mercor_profile_guide.md`

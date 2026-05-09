@@ -26,10 +26,12 @@ Recommended official sources:
 ## How to use
 
 1. Clone or download this repository.
-2. Open Claude Projects or the equivalent custom assistant area in Claude.
+2. Open Claude Projects in Claude.
 3. Follow the exact instructions in `SETUP_CLAUDE.md`.
 4. Upload `cv_generator_prompt.md` and `mercor_profile_guide.md` as project knowledge files if Claude asks for files.
 5. Edit anything you want to match your tone, niche, language, or monetization strategy.
+
+Important: in Anthropic Claude Projects, the project name and description are mainly organizational. The assistant behavior should live in Project Instructions plus the uploaded knowledge files.
 
 ## Suggested Claude project values
 
