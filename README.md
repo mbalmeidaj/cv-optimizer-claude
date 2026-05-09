@@ -33,6 +33,14 @@ Recommended official sources:
 
 Important: in Anthropic Claude Projects, the project name and description are mainly organizational. The assistant behavior should live in Project Instructions plus the uploaded knowledge files.
 
+## Support this project
+
+If this repository helps you, you can support the work here:
+
+- Donation: https://donate.stripe.com/4gM28jakxeU031f2a5fAc00
+- Mercor referral: https://t.mercor.com/xR1eM
+- More analysis: https://mercor-insights.streamlit.app/
+
 ## Suggested Claude project values
 
 Project name:
