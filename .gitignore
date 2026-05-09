@@ -1,0 +1,17 @@
+# Local Mercor snapshots and downloaded assets
+*.html
+*_files/
+**/*_files/
+*.transferir
+
+# Generated resume exports
+output/
+exports/
+*.pdf
+*.docx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
